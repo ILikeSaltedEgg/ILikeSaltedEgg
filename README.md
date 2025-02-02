@@ -1,5 +1,5 @@
 -👋 Hello, World! I'm @ILikeSaltedEgg
-Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself and share a bit about my journey, interests, and goals.
+Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself and share a bit about my own.
 
 -👀 About Me
 I'm a passionate individual who loves exploring any interesting that might catch my attention, im also a creative person, and problem-solving. Whether it's coding, designing, or drawing, I'm always eager to learn and grow. My curiosity drives me to dive into new challenges and discover innovative solutions.
