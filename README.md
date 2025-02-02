@@ -7,9 +7,9 @@ I'm a passionate individual who loves exploring any interesting that might catch
 -🌱 What I'm Currently Learning
 I'm constantly expanding my skill set and diving into new areas of knowledge. Right now, I'm focusing on:
 
-Programming Languages: Exploring languages like PythoN,JavaScript, or [PHP].
+Programming Languages: Exploring languages like PythoN,JavaScript, or PHP.
 
-Concepts: Deepening my understanding of [web development, Game Development, etc.].
+Concepts: Deepening my understanding of web development, Game Development, etc.
 
 I believe in lifelong learning, and I'm always open to new opportunities to grow both personally and professionally.
 
