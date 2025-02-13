@@ -3,22 +3,21 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 🚀 About Me
 
-Passionate about coding, technology, and innovation
-Currently working on exciting projects in web development
-Always eager to learn and collaborate
+I like salted egg, and i also like playing games :D
+
 📫 Contact Me
 
 Email: acejoshuacalimlim@gmail.com
 Twitter: @omphukos
+
 💡 Tech Stack
-[![HTML]
 
+[HTML]
+[PHP]
+[React]
+[CSS]
+[JS]
 
-
-🔥 Current Projects
-
-🎓 Online Canteen Ordering System (Grade 12 Research Project)
-📂 Personal Portfolio (Paper-style UI Design)
 
 💬 Let's Connect!
 Feel free to reach out, collaborate, or just to chat!
