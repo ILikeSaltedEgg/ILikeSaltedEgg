@@ -1,6 +1,8 @@
 👋 Hello, World! I'm @ILikeSaltedEgg
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
+[![ILikeSaltedEgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILikeSaltedEgg)](https://github.com/ILikeSaltedEgg/github-readme-stats)
+
 🚀 About Me
 
 I like salted egg, and i also like playing games :D
