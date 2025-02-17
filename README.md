@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 
 ![ILikeSaltedEgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILikeSaltedEgg&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILikeSaltedEgg&layout=compact)](https://github.com/ILikeSaltedEgg/github-readme-stats&layout=compact)
 
 🚀 About Me
 
