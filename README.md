@@ -2,8 +2,8 @@
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
 
-![ILikeSaltedEgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILikeSaltedEgg&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILikeSaltedEgg&layout=compact)](https://github.com/ILikeSaltedEgg/github-readme-stats&layout=compact)
+![ILikeSaltedEgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILikeSaltedEgg&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILikeSaltedEgg&layout=compact&theme=dark)](https://github.com/ILikeSaltedEgg/github-readme-stats&layout=compact&theme=dark)
 
 🚀 About Me
 
@@ -22,7 +22,6 @@ Twitter: @omphukos
 [CSS]
 [JS]
 
-![Leetcode Stats](https://leetcard.ilikesaltedegg/ILikeSaltedEgg)
 
 💬 Let's Connect!
 Feel free to reach out, collaborate, or just to chat!
