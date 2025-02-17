@@ -18,6 +18,7 @@ Twitter: @omphukos
 [CSS]
 [JS]
 
+![Leetcode Stats](https://leetcard.ilikesaltedegg/ILikeSaltedEgg)
 
 💬 Let's Connect!
 Feel free to reach out, collaborate, or just to chat!
