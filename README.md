@@ -10,6 +10,12 @@ Welcome to my GitHub profile! I'm thrilled to have you here.</h3>
 ![](https://nirzak-streak-stats.vercel.app/?user=ILikeSaltedEgg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ILikeSaltedEgg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/omphunkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omphunkos" height="30" width="40" /></a>
+<a href="https://fb.com/ace.joshua.calimlim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ace.joshua.calimlim" height="30" width="40" /></a>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ILikeSaltedEgg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
