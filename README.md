@@ -42,12 +42,6 @@
 
 ---
 
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=ILikeSaltedEgg&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 🌐 Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/ace.joshua.calimlim)
