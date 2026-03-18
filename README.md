@@ -1,5 +1,5 @@
 
-<h3 align="left">👋 Hello, World! I'm @ILikeSaltedEgg
+<h3 align="center">👋 Hello, World! I'm @ILikeSaltedEgg
 Welcome to my GitHub profile! I'm thrilled to have you here.</h3>
 
 
